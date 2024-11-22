@@ -1,1 +1,1 @@
-This is dev A.java file data.
+int a=10;
